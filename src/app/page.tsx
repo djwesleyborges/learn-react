@@ -1,6 +1,4 @@
 import Botao from "@/components/Botao";
-import { useState } from "react";
-
 
 
 export default function Home() {
