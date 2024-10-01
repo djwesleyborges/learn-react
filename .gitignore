@@ -88,3 +88,4 @@ buck-out/
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
+learn-react-1/node_modules
